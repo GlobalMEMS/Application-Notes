@@ -20,6 +20,7 @@
 
 ## GMC306
 
+* [GMC306 EVB Pinout](https://github.com/GlobalMEMS/Application-Notes/blob/master/GMC306%20EVB%20Pinout.pdf)
 * [Application guidelines for using GMEMS eCompass](https://github.com/GlobalMEMS/Application-Notes/blob/master/Application%20guidelines%20for%20using%20GMEMS%20eCompass%20V1.0.pdf)
 
 
